@@ -494,3 +494,5 @@ address=/gridsumdissector.com/127.0.0.1
 address=/cbsi.com/127.0.0.1
 address=/gentags.net/127.0.0.1
 address=/ali37.net/127.0.0.1
+address=/jomodns.com/127.0.0.1
+address=/hot.vrs.sohu.com/127.0.0.1
