@@ -169,7 +169,6 @@ address=/51.la/127.0.0.1
 address=/ajiang.net/127.0.0.1
 address=/g.163.com/127.0.0.1
 address=/126.net/127.0.0.1
-address=/video.qiyi.com/127.0.0.1
 address=/rcd.iqiyi.com/127.0.0.1
 address=/msg.video.qiyi.com/127.0.0.1
 address=/agrant.cn/127.0.0.1
