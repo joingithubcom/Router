@@ -7,5 +7,9 @@ ol.synacast.com
 ads.data.pplive.com
 asimgs.pplive.cn
 
+de.as.pptv.com
+ads.aplus.pptv.com
+ik.synacast.com
+s1.pplive.cn
 
 
