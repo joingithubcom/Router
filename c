@@ -12,4 +12,6 @@ ads.aplus.pptv.com
 ik.synacast.com
 s1.pplive.cn
 
+mobads-static.baidu.com
+jntinchina.com
 
