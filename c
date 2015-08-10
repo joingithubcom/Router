@@ -15,3 +15,9 @@ s1.pplive.cn
 mobads-static.baidu.com
 jntinchina.com
 
+ark.letv.com
+dc.letv.com
+le.so.letv.com
+i0.letvimg.com
+rvs.letv.com
+fz.letv.com
