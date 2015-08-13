@@ -1,3 +1,5 @@
+js.tv.itc.cn
+
 vas.pptv.com
 jp.as.pptv.com
 static.g.pptv.com
