@@ -25,3 +25,7 @@ i1.letvimg.com
 i3.letvimg.com
 rvs.letv.com
 fz.letv.com
+
+bs.da.hunantv.com
+
+
