@@ -176,7 +176,7 @@ address=/ad.m.iqiyi.com/127.0.0.1
 address=/geo.qiyi.com/127.0.0.1
 address=/agrant.cn/127.0.0.1
 address=/rd.go.10086.cn/127.0.0.1
-
+address=/da.hunantv.com/127.0.0.1
 address=/radio.t.qq.com/127.0.0.1
 address=/pub.idqqimg.com/127.0.0.1
 address=/badjs.qq.com/127.0.0.1
