@@ -27,6 +27,8 @@ rvs.letv.com
 fz.letv.com
 
 bs.da.hunantv.com
+fp.da.hunantv.com
+x.da.hunantv.com
 
 address=/v.gdt.qq.com/127.0.0.1
 address=/c.gdt.qq.com/127.0.0.1
