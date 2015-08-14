@@ -110,7 +110,7 @@ address=/livec.l.qq.com/127.0.0.1
 address=/w.l.qq.com/127.0.0.1
 address=/c.l.qq.com/127.0.0.1
 address=/av.video.qq.com/127.0.0.1
-
+address=/gdt.qq.com/127.0.0.1
 address=/dev.app.qq.com/127.0.0.1
 address=/mobwin.app.qq.com/127.0.0.1
 address=/vas.pptv.com/127.0.0.1
