@@ -69,7 +69,6 @@ address=/eiv.baidu.com/127.0.0.1
 address=/cpro.baidu.com/127.0.0.1
 address=/yingxiao.baidu.com/127.0.0.1
 address=/rigel.baidustatic.com/127.0.0.1
-address=/static.wenku.bdimg.com/127.0.0.1
 address=/inmobi.com/127.0.0.1
 address=/inmobicdn.net/127.0.0.1
 address=/sougoucdn.com/127.0.0.1
