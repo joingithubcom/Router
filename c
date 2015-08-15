@@ -42,3 +42,5 @@ address=/livec.l.qq.com/127.0.0.1
 address=/w.l.qq.com/127.0.0.1
 address=/c.l.qq.com/127.0.0.1
 
+gdown.baidu.com
+gtimg.cn
