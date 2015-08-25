@@ -505,6 +505,7 @@ address=/mobads-static.baidu.com/127.0.0.1
 address=/mcp.baidu.com/127.0.0.1
 address=/ops.baidu.com/127.0.0.1
 address=/cbs.baidu.com/127.0.0.1
+address=/wangmeng.baidu.com/127.0.0.1
 address=/jntinchina.com/127.0.0.1
 address=/ark.letv.com/127.0.0.1
 address=/dc.letv.com/127.0.0.1
