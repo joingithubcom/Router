@@ -44,3 +44,5 @@ address=/c.l.qq.com/127.0.0.1
 
 gdown.baidu.com
 gtimg.cn
+
+ac.o2.qq.com
