@@ -46,3 +46,4 @@ gdown.baidu.com
 gtimg.cn
 
 ac.o2.qq.com
+ra.gtimg.com
