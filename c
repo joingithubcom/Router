@@ -45,6 +45,13 @@ address=/c.l.qq.com/127.0.0.1
 gdown.baidu.com
 gtimg.cn
 
+ugcws.video.gtimg.com
+ugcws.video.gtimg.com.wscdns.com
+qqhttp.ddwscache.ourdvs.com
+www.ipswitch.ourdvs.com
+sec.video.qq.com
+mmbiz.qpic.cn
+
 ac.o2.qq.com
 ra.gtimg.com
 vamaker.com
