@@ -48,3 +48,4 @@ gtimg.cn
 ac.o2.qq.com
 ra.gtimg.com
 vamaker.com
+msg.71.am
