@@ -44,6 +44,9 @@ address=/c.l.qq.com/127.0.0.1
 
 gdown.baidu.com
 
+agn.aty.sohu.com
+pv.hd.sohu.com
+
 ugcws.video.gtimg.com
 ugcws.video.gtimg.com.wscdns.com
 qqhttp.ddwscache.ourdvs.com
