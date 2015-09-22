@@ -531,5 +531,6 @@ address=/gridsumdissector.com/127.0.0.1
 address=/gridsum.com/127.0.0.1
 address=/bcscdn.baidu.com/127.0.0.1
 address=/wmjs.jomodns.com/127.0.0.1
+address=/wmpic.jomodns.com/127.0.0.1
 address=/ts1.qq.com/127.0.0.1
 address=/pl.qq.com/127.0.0.1
