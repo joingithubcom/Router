@@ -534,3 +534,5 @@ address=/wmjs.jomodns.com/127.0.0.1
 address=/wmpic.jomodns.com/127.0.0.1
 address=/ts1.qq.com/127.0.0.1
 address=/pl.qq.com/127.0.0.1
+address=/googleadservices.com/127.0.0.1
+address=/dartsearch.net/127.0.0.1
