@@ -551,3 +551,4 @@ address=/tippam.tieba.baidu.com/127.0.0.1
 address=/pos.wenku.baidu.com/127.0.0.1
 address=/shang.qq.com/127.0.0.1
 address=/wp.qq.com/127.0.0.1
+address=/50bang.org/127.0.0.1
