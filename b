@@ -535,6 +535,7 @@ address=/wmpic.jomodns.com/127.0.0.1
 address=/ts1.qq.com/127.0.0.1
 address=/pl.qq.com/127.0.0.1
 address=/googleadservices.com/127.0.0.1
+address=/haiyunx.com/127.0.0.1
 address=/dartsearch.net/127.0.0.1
 address=/cb.baidu.cn/127.0.0.1
 address=/landmark.baidu.com/127.0.0.1
