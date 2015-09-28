@@ -13,7 +13,7 @@ cache-size=1024
 log-facility=/tmp/dnsmasq.log
 log-queries
 
-
+touch /tmp/0.conf
 wget --no-check-certificate https://raw.githubusercontent.com/joingithubcom/Router/master/b -O /tmp/0.conf
 
 server=/1.168.192.in-addr.arpa/1.1.1.1
