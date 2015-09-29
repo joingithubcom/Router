@@ -1,0 +1,5 @@
+得到google服务器IP地址段
+nslookup -q=TXT _netblocks.google.com 8.8.8.8
+
+使用TCP连接方式与dns服务器8.8.8.8连接获取IP地址
+nslookup -vc google.com 8.8.8.8
