@@ -596,7 +596,6 @@ address=/popme.163.com/127.0.0.1
 address=/adgeo.163.com/127.0.0.1
 address=/mat1.gtimg.com/127.0.0.1
 address=/s.360.cn/127.0.0.1
-address=/msg.iqiyi.com/127.0.0.1
 address=/web.data.pplive.com/127.0.0.1
 address=/p4p.sina.com.cn/127.0.0.1
 address=/dcads.sina.com.cn/127.0.0.1
