@@ -10,6 +10,7 @@ address=/afp.qiyi.com/127.0.0.1
 address=/jsmsg.video.qiyi.com/127.0.0.1
 address=/uestat.video.qiyi.com/127.0.0.1
 address=/static.qiyi.com/127.0.0.1
+address=/msg.iqiyi.com/127.0.0.1
 address=/comment.pptv.com/127.0.0.1
 address=/iafp.pptv.com/127.0.0.1
 address=/pp2.pptv.com/127.0.0.1
