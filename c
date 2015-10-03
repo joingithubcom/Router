@@ -41,7 +41,7 @@ address=/livep.l.qq.com/127.0.0.1
 address=/livec.l.qq.com/127.0.0.1
 address=/w.l.qq.com/127.0.0.1
 address=/c.l.qq.com/127.0.0.1
-
+address=/redirect.simba.taobao.com/127.0.0.1
 gdown.baidu.com
 
 agn.aty.sohu.com
