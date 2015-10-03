@@ -15,7 +15,6 @@ gmail.com
 golang.org
 goo.gl
 google.com
-google-analytics.com
 googleapis.com
 googlecode.com
 googledrive.com
