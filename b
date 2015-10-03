@@ -611,5 +611,5 @@ address=/webstat.kuwo.cn/127.0.0.1
 address=/mlt01.com/127.0.0.1
 address=/baichuan.baidu.com/127.0.0.1
 address=/b.gtimg.com/127.0.0.1
-address=/redirect.simba.taobao.com/127.0.0.1
+address=/simba.taobao.com/127.0.0.1
 address=/static.360buyimg.com/127.0.0.1
