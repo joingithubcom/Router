@@ -43,6 +43,11 @@ address=/w.l.qq.com/127.0.0.1
 address=/c.l.qq.com/127.0.0.1
 address=/redirect.simba.taobao.com/127.0.0.1
 gdown.baidu.com
+address=/dup.baidustatic.com/127.0.0.1
+address=/cpro.baidustatic.com/127.0.0.1
+address=/rigel.baidustatic.com/127.0.0.1
+address=/ubmcmm.baidustatic.com/127.0.0.1
+address=/cpro2.baidustatic.com/127.0.0.1
 
 agn.aty.sohu.com
 pv.hd.sohu.com
