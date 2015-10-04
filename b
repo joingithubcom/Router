@@ -636,3 +636,6 @@ address=/sw.mobile.sogou.com/127.0.0.1
 address=/reachmax.cn/127.0.0.1
 address=/mmcdn.cn/127.0.0.1
 address=/wowtb.com/127.0.0.1
+address=/share.baidu.com/127.0.0.1
+address=/libs.baidu.com/127.0.0.1
+address=/siteapp.baidu.com/127.0.0.1
