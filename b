@@ -544,7 +544,6 @@ address=/wmpic.jomodns.com/127.0.0.1
 address=/ts1.qq.com/127.0.0.1
 address=/pl.qq.com/127.0.0.1
 address=/pingjs.qq.com/127.0.0.1
-address=/img1.gtimg.com/127.0.0.1
 address=/rh.qq.com/127.0.0.1
 address=/j.wit.qq.com/127.0.0.1
 address=/trace.qq.com/127.0.0.1
