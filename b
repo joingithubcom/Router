@@ -636,3 +636,4 @@ address=/wowtb.com/127.0.0.1
 address=/share.baidu.com/127.0.0.1
 address=/libs.baidu.com/127.0.0.1
 address=/siteapp.baidu.com/127.0.0.1
+address=/srd.simba.m.taobao.com/127.0.0.1
