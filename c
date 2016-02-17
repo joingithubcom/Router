@@ -321,3 +321,7 @@ ra.gtimg.com
 vamaker.com
 msg.71.am
 bce.baidu-mgame.com
+
+手机wifi检测
+connectivitycheck.gstatic.com
+connectivitycheck.android.com/generate204
