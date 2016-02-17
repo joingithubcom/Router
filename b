@@ -757,7 +757,7 @@ address=/video.mpush.qq.com/127.0.0.1
 address=/aid.video.qq.com/127.0.0.1
 address=/rlog.video.qq.com/127.0.0.1
 address=/la.gtimg.com/127.0.0.1
-address=/gstatic.com/127.0.0.1
+
 address=/googlepages.com/127.0.0.1
 address=/googlesyndication.com/127.0.0.1
 address=/1133.cc/127.0.0.1
