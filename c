@@ -325,3 +325,4 @@ bce.baidu-mgame.com
 手机wifi检测
 connectivitycheck.gstatic.com
 connectivitycheck.android.com/generate204
+clients3.google.com/generate_204
