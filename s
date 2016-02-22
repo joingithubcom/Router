@@ -43,7 +43,15 @@ google.cn
 googlepages.com
 googlesile.com
 gstatic.cn
-
+googleartproject.com
+googlecommerce.com
+googledomains.com
+googleearth.com
+googlegroups.com
+googleplus.com
+gvt0.com
+gvt1.com
+gmodules.com
 wikipedia.org
 wkikimediafoundation.org
 mediawiki.org
