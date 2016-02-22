@@ -74,5 +74,16 @@ facebook.com
 facebook.net
 tfbnw.net
 fbcdn.net
-
+tw
 t66y.com
+t88.ca
+sevenload.com
+sex.com
+sex-11.com
+sex3.com
+sex8.cc
+sexandsubmission.com
+sexhu.com
+sexhuang.com
+sexinsex.net
+shopping.com
