@@ -61,6 +61,10 @@ wikisource.org
 wikiquote.org
 wiktionary.org
 internet.org
+bit.ly
+flickr.com
+instagram.com
+lvv2.com
 
 t.co
 facebook.com
