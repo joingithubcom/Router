@@ -32,7 +32,6 @@ gwtproject.org
 keyhole.com
 orkut.com
 panoramio.com
-thefacebook.com
 webmproject.org
 yfrog.com
 youtube.com
@@ -66,9 +65,7 @@ bit.ly
 flickr.com
 instagram.com
 lvv2.com
-
 t.co
-facebook.com
 thefacebook.com
 twitter.com
 tweetdeck.com
