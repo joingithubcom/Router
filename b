@@ -15,7 +15,6 @@ address=/irs01.com/127.0.0.1
 address=/x.jd.com/127.0.0.1
 address=/revsci.net/127.0.0.1
 address=/doubleclick.net/0.0.0.0
-
 address=/tf.360.cn/127.0.0.1
 address=/terren.cntv.cn/127.0.0.1
 address=/ent.cntv.cn/127.0.0.1
@@ -768,3 +767,5 @@ address=/gimg.iqilu.com/127.0.0.1
 address=/c.isdspeed.qq.com/127.0.0.1
 address=/wup.imtt.qq.com/127.0.0.1
 address=/bs.baidu.com/127.0.0.1
+address=/lu.sogou.com/127.0.0.1
+address=/wangmeng.sogou.com/127.0.0.1
