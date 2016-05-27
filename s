@@ -64,6 +64,7 @@ internet.org
 bit.ly
 flickr.com
 instagram.com
+tumblr.com
 lvv2.com
 t.co
 thefacebook.com
