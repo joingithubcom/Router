@@ -108,3 +108,4 @@ server=/sexhu.com/120.27.30.176#5353
 server=/sexhuang.com/120.27.30.176#5353
 server=/sexinsex.net/120.27.30.176#5353
 server=/shopping.com/120.27.30.176#5353
+server=/tumblr.com/120.27.30.176#5353
