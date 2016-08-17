@@ -774,3 +774,7 @@ address=/crl.microsoft.com/127.0.0.1
 address=/rad.microsoft.com/127.0.0.1
 address=/watson.microsoft.com/127.0.0.1
 address=/surfacead.com/127.0.0.1
+address=/tip.soku.com/127.0.0.1
+address=/lvip.youku.com/127.0.0.1
+address=/hudong.pl.youku.com/127.0.0.1
+address=/adscdn.baidu.com/127.0.0.1
