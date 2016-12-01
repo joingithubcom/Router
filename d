@@ -18,6 +18,7 @@ server=/gmail.com/115.159.158.38
 server=/golang.org/115.159.158.38
 server=/goo.gl/115.159.158.38
 server=/google.com/115.159.158.38
+server=/google.org/115.159.158.38
 server=/googleapis.com/115.159.158.38
 server=/googlecode.com/115.159.158.38
 server=/googledrive.com/115.159.158.38
