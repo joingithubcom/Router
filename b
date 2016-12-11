@@ -784,3 +784,5 @@ address=/clicklog.moviebox.baofeng.com/127.0.0.1
 address=/videodown.baofeng.com/127.0.0.1
 address=/midinfo.baofeng.com/127.0.0.1
 address=/googletagservices.com/127.0.0.1
+address=/js.letvcdn.com/127.0.0.1
+address=/info.vip.iqiyi.com/127.0.0.1
