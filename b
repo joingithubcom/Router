@@ -814,3 +814,5 @@ address=/ads.wasu.tv/127.0.0.1
 address=/adwasu.wasu.tv/127.0.0.1
 address=/adsystem.wasu.tv/127.0.0.1
 address=/pb3.pstatp.com/127.0.0.1
+address=/vungle.cn/127.0.0.1
+address=/hudong.pl.youku.com/127.0.0.1
