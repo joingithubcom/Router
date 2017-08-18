@@ -123,3 +123,5 @@ server=/telegram.me/115.159.158.38
 server=/cdninstagram.com/115.159.158.38
 server=/vimeo.com/115.159.158.38
 server=/vimeocdn.com/115.159.158.38
+server=/xboxlive.com/115.159.158.38
+server=/xbox.com/115.159.158.38
