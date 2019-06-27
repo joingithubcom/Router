@@ -1,6 +1,6 @@
 conf-file=/etc/0.conf
 cache-size=1024
-listen-address=0.0.0.0
+#listen-address=0.0.0.0
 server=/github.com/115.159.158.38
 server=/android.com/115.159.158.38
 server=/akamaihd.net/115.159.158.38
